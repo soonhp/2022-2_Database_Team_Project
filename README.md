@@ -13,11 +13,11 @@
 
 [**Neural Collaborative Filtering(2017)**](https://dl.acm.org/doi/pdf/10.1145/3038912.3052569)
 
-![](C:\Users\박순혁\AppData\Roaming\Typora\typora-user-images\image-20220817164947662.png)![image-20220817165019540](C:\Users\박순혁\AppData\Roaming\Typora\typora-user-images\image-20220817165019540.png)
+![](README_PNG/image-20220817165019540.png)
 
-![(C:\Users\박순혁\AppData\Roaming\Typora\typora-user-images\image-20220817165100565.png)
+![(README_PNG/image-20220817165100565.png)
 
-![image-20220817165117633](C:\Users\박순혁\AppData\Roaming\Typora\typora-user-images\image-20220817165117633.png)
+![image-20220817165117633](README_PNG/image-20220817165117633.png)
 
 
 
@@ -32,36 +32,36 @@
 
 ## 논문 구현
 
-![image-20220817165433647](C:\Users\박순혁\AppData\Roaming\Typora\typora-user-images\image-20220817165433647.png)
+![image-20220817165433647](README_PNG/image-20220817165433647.png)
 
 
 
 ## 4. 구현 결과
 
-![(C:\Users\박순혁\AppData\Roaming\Typora\typora-user-images\image-20220817165455792.png)
+![(README_PNG/image-20220817165455792.png)
 
-![image-20220817165516436](C:\Users\박순혁\AppData\Roaming\Typora\typora-user-images\image-20220817165516436.png)
+![image-20220817165516436](README_PNG/image-20220817165516436.png)
 
 
 
 ## 5. 비교 실험
 
-![image-20220817165625430](C:\Users\박순혁\AppData\Roaming\Typora\typora-user-images\image-20220817165625430.png)
+![image-20220817165625430](README_PNG/image-20220817165625430.png)
 
 
 
-![(C:\Users\박순혁\AppData\Roaming\Typora\typora-user-images\image-20220817165704338.png)
+![(README_PNG/image-20220817165704338.png)
 
-![image-20220817165718079](C:\Users\박순혁\AppData\Roaming\Typora\typora-user-images\image-20220817165718079.png)
+![image-20220817165718079](README_PNG/image-20220817165718079.png)
 
 
 
-![image-20220817165738625](C:\Users\박순혁\AppData\Roaming\Typora\typora-user-images\image-20220817165738625.png)
+![image-20220817165738625](README_PNG/image-20220817165738625.png)
 
 
 
 ## 6. 결 론
 
-![image-20220817165847093](C:\Users\박순혁\AppData\Roaming\Typora\typora-user-images\image-20220817165847093.png)
+![image-20220817165847093](README_PNG/image-20220817165847093.png)
 
-![image-20220817165857052](C:\Users\박순혁\AppData\Roaming\Typora\typora-user-images\image-20220817165857052.png)
+![image-20220817165857052](README_PNG/image-20220817165857052.png)
