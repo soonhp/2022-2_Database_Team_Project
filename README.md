@@ -5,7 +5,7 @@
 
 ## 1. 연구 배경
 
-![image-20220817164325885](C:\Users\박순혁\AppData\Roaming\Typora\typora-user-images\image-20220817164325885.png)
+![image-20220817164325885](README_PNG\image-20220817164325885.png)
 
 
 
